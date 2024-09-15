@@ -16,6 +16,8 @@ const songs = [
     { title: "Southern Nights", artist: "The Runaways", genre: "Pop" },
     { title: "Mr. Blue Sky", artist: "Electric Light Orchestra", genre: "R&B" },
     { title: "The Rubberband Man", artist: "Spinners", genre: "R&B" },
+    { title: "Fox on the Run", artist: "Sweet", genre: "Rock" },
+    { title: "Dog Days Are Over", artist: "Florence & The Machine", genre: "Pop" },
 ];
 
 
